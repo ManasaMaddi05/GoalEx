@@ -1,4 +1,4 @@
-# Goal-Driven Explainable Clustering via Language Descriptions
+# Goal-Driven Explainable Clustering via Language Descriptions (cjange)
 This repo contains the datasets and the Propose-Assign-Select (PAS) method implementation for the paper [Goal-Driven Explainable Clustering via Language Descriptions](https://arxiv.org/abs/2305.13749).
 
 Authors: Zihan Wang, Jingbo Shang, Ruiqi Zhong
